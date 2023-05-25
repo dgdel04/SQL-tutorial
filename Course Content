@@ -7,3 +7,5 @@ DDL data changes.
 
 Data Manupulation Language;
 This command of SQL that are used to insert data into the database.
+
+Truncate is not a DML statements.
