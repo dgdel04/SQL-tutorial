@@ -4,3 +4,6 @@ DDL:
 This command of SQL that is used to retrive data from database.
 
 DDL data changes.
+
+Data Manupulation Language;
+This command of SQL that are used to insert data into the database.
